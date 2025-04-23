@@ -8,6 +8,7 @@ To run this application, you need the following:
 ## Configure the database
 To configure the database, run the following SQL script:
 
+```sql
 CREATE DATABASE BibliotecaDB;
 GO
 
@@ -58,5 +59,6 @@ INSERT INTO Autor (NumeAutor, PrenumeAutor) VALUES
 ('Sadoveanu', 'Mihail'),
 ('Preda', 'Marin'),
 ('Eminescu', 'Mihai');
+```
 
 ![Database Diagram](/Images/Database_diagram.PNG)
