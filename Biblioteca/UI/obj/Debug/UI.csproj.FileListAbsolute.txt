@@ -1,0 +1,15 @@
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\bin\Debug\UI.exe.config
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\bin\Debug\UI.exe
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\bin\Debug\UI.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\bin\Debug\Bussiness.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\bin\Debug\Bussiness.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.exe
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.Home.resources
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.Carte.resources
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\UI\obj\Debug\UI.Raport.resources

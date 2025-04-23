@@ -1,0 +1,10 @@
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\bin\Debug\Data.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\bin\Debug\Data.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\obj\Debug\Bussiness.csproj.AssemblyReference.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Bussiness\bin\Debug\Data.dll.config

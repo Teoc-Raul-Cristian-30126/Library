@@ -1,0 +1,7 @@
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\bin\Debug\Data.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\bin\Debug\Data.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\obj\Debug\Data.dll
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\obj\Debug\Data.pdb
+C:\Users\TeocRaul\Desktop\C# project\Biblioteca\Data\bin\Debug\Data.dll.config
